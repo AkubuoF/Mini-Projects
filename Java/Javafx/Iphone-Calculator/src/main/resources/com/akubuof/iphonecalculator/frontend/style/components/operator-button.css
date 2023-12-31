@@ -1,0 +1,8 @@
+.root #button {
+    -fx-font-family: Symbol;
+    -fx-font-size: 18px;
+    -fx-border-radius: 100;
+    -fx-background-radius: 100;
+    -fx-background-color: #ff9501;
+    -fx-text-fill: white;
+}
