@@ -1,0 +1,10 @@
+.root {
+    -fx-background-color: black;
+}
+
+#textLabel {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-font-family: Symbol;
+    -fx-font-size: 46px;
+}

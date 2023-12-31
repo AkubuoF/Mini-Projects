@@ -12,4 +12,5 @@ module com.akubuof.iphonecalculator {
     exports com.akubuof.iphonecalculator.frontend.components;
     exports com.akubuof.iphonecalculator.frontend.scenes;
     exports com.akubuof.iphonecalculator.backend;
+    opens com.akubuof.iphonecalculator.frontend to javafx.fxml;
 }
